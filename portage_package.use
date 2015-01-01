@@ -1,0 +1,55 @@
+www-client/firefox gstreamer
+media-plugins/gst-plugins-meta ffmpeg
+sys-libs/zlib minizip
+x11-terms/xterm toolbar
+net-im/pidgin -gstreamer gnutls gtk
+app-editors/vim -gpm
+sys-libs/ncurses -gpm
+sys-auth/consolekit policykit
+media-video/ffmpeg gnutls
+sys-devel/gcc -fortran
+app-crypt/pinentry qt4
+net-wireless/wpa_supplicant gnutls
+net-misc/networkmanager -wext gnutls -nss bluetooth -modemmanager ppp upower
+sys-auth/polkit gtk
+dev-python/pyudev pyqt4
+net-libs/neon gnutls
+sys-power/upower introspection
+>=app-text/ghostscript-gpl-9.14 cups
+media-video/ffmpeg sse3 ssse3 sse4 sse4_2 avx aac
+x11-drivers/xf86-video-intel
+sys-block/gparted fat
+media-gfx/exiv2 xmp
+kde-base/okular djvu
+dev-libs/chmlib -examples
+dev-libs/boehm-gc threads
+net-p2p/transmission qt4
+>=media-plugins/alsa-plugins-1.0.28 pulseaudio
+media-sound/pulseaudio qt4
+dev-db/mariadb embedded
+virtual/mysql embedded
+media-sound/amarok ipod mtp nepomuk
+kde-base/kdelibs nepomuk
+media-libs/libgpod gtk
+media-libs/phonon gstreamer vlc
+net-libs/libnm-qt -modemmanager
+kde-misc/plasma-nm -modemmanager
+>=dev-libs/elfutils-0.159 static-libs
+media-sound/pulseaudio bluetooth
+app-pda/libimobiledevice gnutls
+dev-libs/botan threads
+dev-qt/qt-creator android git valgrind fakevim autotools cmake examples
+app-laptop/laptop-mode-tools bluetooth
+app-mobilephone/heimdall qt4
+x11-misc/lightdm qt4
+kde-base/kdepim-runtime facebook google
+xfce-base/xfce4-session upower
+xfce-base/xfce4-settings upower
+xfce-extra/xfce4-power-manager networkmanager
+xfce-extra/xfce4-sensors-plugin lm_sensors hddtemp
+app-crypt/gcr gtk
+gnome-extra/nm-applet bluetooth
+net-nds/openldap -berkdb
+app-cdr/cuetools extras
+dev-libs/libxml2 icu
+dev-qt/qtwebkit icu
